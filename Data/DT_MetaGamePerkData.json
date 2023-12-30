@@ -1,0 +1,2062 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MetaGamePerkData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BBQMetaGamePerkData'",
+        "ObjectPath": "/Script/BBQCore"
+      }
+    },
+    "Rows": {
+      "ApothecaryEye": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ApothecaryEye_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ApothecaryEye.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "BackstabMaster": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BackstabMaster_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BackstabMaster.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "BadBlood": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BadBlood_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BadBlood.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BetterTogether": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BetterTogether_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BetterTogether.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BleedingOut": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BleedingOut_DEPRECATED_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BleedingOut_DEPRECATED.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BleedingReduction": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BleedingReduction_DEPRECATED_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BleedingReduction_DEPRECATED.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BloodTies": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodTies_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BloodTies.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BondBreaker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BondBreaker_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BondBreaker.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BounceBack": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BounceBack_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_BounceBack.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "CarefullyItDoes": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_CarefullyItDoes_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_CarefullyItDoes.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Chemist": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Chemist_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Chemist.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Compass": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Compass_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Compass.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Conditioned": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Conditioned_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Conditioned.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ConstantCare": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ConstantCare_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ConstantCare.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "CoverBurst": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_CoverBurst_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_CoverBurst.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "DeadWeight": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DeadWeight_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_DeadWeight.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "DetectFamiyNoiseSprint": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DetectFamiyNoiseSprint_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_DetectFamiyNoiseSprint.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ExtraBite": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ExtraBite_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ExtraBite.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "FirstAider": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_FirstAider_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_FirstAider.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "FuseInsight": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_FuseInsight_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_FuseInsight.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "HeavyLifter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HeavyLifter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HeavyLifter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "HelpMe": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HelpMe_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HelpMe.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HiddenRecovery": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HiddenRecovery_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HiddenRecovery.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Hobble": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Hobble_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Hobble.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "HuntersEye": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HuntersEye_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HuntersEye.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "IGetBackUpAgain": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_IGetBackUpAgain_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_IGetBackUpAgain.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "ImComingOut": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ImComingOut_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ImComingOut.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "JumpScare": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_JumpScare_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_JumpScare.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "KillerFeedback": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_KillerFeedback_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_KillerFeedback.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "LastButNotLeast": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LastButNotLeast_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LastButNotLeast.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "LastStand": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LastStand_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LastStand.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "Lithe": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Lithe_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Lithe.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "LongerLasting": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LongerLasting_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LongerLasting.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "LuckyLockpicker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LuckyLockpicker_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LuckyLockpicker.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "MagicMedicine": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_MagicMedicine_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_MagicMedicine.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "MarathonRunner": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_MarathonRunner_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_MarathonRunner.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "OneMoreTime": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_OneMoreTime_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_OneMoreTime.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "Overlooked": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Overlooked_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Overlooked.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "PayBack": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PayBack_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Payback.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "PickOnMe": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PickOnMe_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_PickOnMe.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Preservation": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Preservation_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Preservation.3"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "QuickHands": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_QuickHands_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_QuickHands.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ReverseGrandpa": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ReverseGrandpa_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ReverseGrandpa.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "RunForYourLife": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_RunForYourLife_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_RunForYourLife.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SanguineShadow": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SanguineShadow_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SanguineShadow.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SappingCut": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SappingCut_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SappingCut.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "SecondWind": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SecondWind_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SecondWind.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "ShardMaster": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ShardMaster_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ShardMaster.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "ShardStrike": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ShardStrike_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ShardStrike.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "Slippery": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Slippery_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Slippery.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SprintBurst": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SprintBurst_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SprintBurst.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "StaminaRecovery": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_StaminaRecovery_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_StaminaRecovery.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SteadyCharge": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SteadyCharge_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SteadyCharge.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "StrongGrip": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_StrongGrip_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_StrongGrip.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "StuntPerformer": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_StuntPerformer_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_StuntPerformer.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SupriseAttacker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_FurnitureFu_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_FurnitureFu.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ToolMaster": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ToolMaster_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ToolMaster.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ToTheRescue": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ToTheRescue_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ToTheRescue.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "TwinkleToes": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_TwinkleToes_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_TwinkleToes.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "UniversalDonor": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_UniversalDonor_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_UniversalDonor.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "UnScrewed": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_UnScrewed_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_UnScrewed.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "WellTrained": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_WellTrained_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_WellTrained.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Wrestler": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Wrestler_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Wrestler.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PerkoverBurst": {
+        "Perk": null,
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 600,
+        "XpLevel3": 12000
+      },
+      "DrugDetector": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_Perk_DrugDetector_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_Perk_DrugDetector.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodRun": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodRun_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodRun.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ButcherBonus": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ButcherBonus_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ButcherBonus.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ChaserBonus": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ChaserBonus_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ChaserBonus.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "CoverMe": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_CoverMe_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_CoverMe.3"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "DetectVictimNoiseSprint": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DetectVictimNoiseSprint_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_DetectVictimNoiseSprint.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "DinnersReady": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DinnersReady_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_DinnersReady.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "DoorSplinters": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DoorSplinters_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_DoorSplinters.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "DownTheRabbitHole": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DownTheRabbitHole_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_DownTheRabbitHole.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "EasilyTuckeredOut": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_EasilyTuckeredOut_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_EasilyTuckeredOut.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "GluedTogether": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_GluedTogether_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_GluedTogether.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "GoodHeart": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_GoodHeart_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_GoodHeart.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Herbalist": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Herbalist_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Herbalist.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "HurtPride": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HurtPride_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_HurtPride.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "HystericalStrength": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HystericalStrength_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_HystericalStrength.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "ISeeYou": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ISeeYou_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ISeeYou.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "LetsMotor": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LetsMotor_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_LetsMotor.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "MarathonSprinter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_MarathonSprinter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_MarathonSprinter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "MyChickens": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_MyChickens_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_MyChickens.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "OneForAll": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_OneForAll_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_OneForAll.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PatienceCook": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Patience_Cook_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Patience_Cook.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "PatienceJohnny": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Patience_Johnny_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Patience_Johnny.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "PowerAttacker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PowerAttacker_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_PowerAttacker.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "Rage": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Rage_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Rage.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "RenewedVigor": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_RenewedVigor_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_RenewedVigor.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Scouter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Scouter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Scouter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Serrated": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Serrated_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Serrated.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "Skinner": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Skinner_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Skinner.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SoulCrusher": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SoulCrusher_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SoulCrusher.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SplatterZone": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SplatterZone_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SplatterZone.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SpotAndRun": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SpotAndRun_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SpotAndRun.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SteadyFeet": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SteadyFeet_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SteadyFeet.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "TagYoureIt": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_TagYoureIt_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_TagYoureIt.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "WellBalanced": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_WellBalanced_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_WellBalanced.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "KnowYouWatch": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_Perk_KnowYouWatch_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_Perk_KnowYouWatch.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BargeToThePoint": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkBargeToThePoint_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkBargeToThePoint.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "DontHaveAllDay": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkDontHaveAllDay_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkDontHaveAllDay.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ExcitedGrandpa": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkExcitedGrandpa_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkExcitedGrandpa.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ExperiencedStalkers": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkExperiencedStalkers_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkExperiencedStalkers.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "ExteriorAlarms": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkExteriorAlarms_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkExteriorAlarms.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "StickyHarvest": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkStickyHarvest_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkStickyHarvest.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SuffocatingGrip": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkSuffocatingGrip_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkSuffocatingGrip.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "SwingingForTheFences": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkSwingingForTheFences_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkSwingingForTheFences.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "WellWellWell": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkWellWellWell_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkWellWellWell.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "Windoom": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQMottoPerkWindoom_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQMottoPerkWIndoom.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "ThousandCuts": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerkThousandCuts_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_BBQPerkThousandCuts.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "AlwaysInSync": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_MottoPerk_AlwaysInSync_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_MottoPerk_AlwaysInSync.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 2400
+      },
+      "AnimalFarm": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_MottoPerk_AnimalFarm_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_MottoPerk_AnimalFarm.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "WellFed": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_MottoPerk_WellFed_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_MottoPerk_WellFed.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 4800,
+        "XpLevel3": 14000
+      },
+      "BruteStrength": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_MottoPerkBruteStrength_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_MottoPerkBruteStrength.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "NobodyEscapesHell": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_MottoPerkNobodyEscapesHell_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyMottoPerks/BP_MottoPerkNobodyEscapesHell.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 6000,
+        "XpLevel3": 18000
+      },
+      "HeightenedSense": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQSSP_HeightenedSense_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Sonny/HeightenedSense/BP_BBQSSP_HeightenedSense.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "LifeSaver": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQSSP_LifeSaver_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Leland/LifeSaver/BP_BBQSSP_LifeSaver.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "PainIsNothing": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQSSP_PainIsNothing_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Ana/PainIsNothing/BP_BBQSSP_PainIsNothing.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "UltimateEscape": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQSSP_UltimateEscape_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Julie/UltimateEscape/BP_BBQSSP_UltimateEscape.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "Focused": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Focused_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Connie/Focused/BP_BBQPerk_Focused.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "Intuition": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Intuition_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Intuition.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "StrongConstitution": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_StrongConstitution_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_StrongConstitution.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "IronWill": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_IronWill_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_IronWill.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "LoneSurvivor": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LoneSurvivor_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LoneSurvivor.3"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Latchlad": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Latchlad_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Latchlad.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SafetyInNumbers": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SafetyInNumbers_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SafetyInNumbers.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Saboteur": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Saboteur_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Saboteur.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HitAndRun": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HitAndRun_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HitAndRun.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "DEBUG_DoubleHealth": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DEBUG_DoubleHealth_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_DEBUG_DoubleHealth.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "AwkwardPatient": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_AwkwardPatient_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_AwkwardPatient.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Spotter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Spotter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Spotter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "KnockedIntoAction": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_KnockedIntoAction_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_KnockedIntoAction.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Strong": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Strong_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Strong.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Proficient": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Proficient_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Proficient.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Tough": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Tough_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Tough.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Stealthy": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Stealthy_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Stealthy.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Endurant": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Endurant_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Endurant.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ElectricInsight": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ElectricInsight_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ElectricInsight.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "RescueMedic": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_RescueMedic_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_RescueMedic.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "NoSell": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_NoSell_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_NoSell.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SleightOfHand": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SleightOfHand_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SleightOfHand.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SticksAndStones": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SticksAndStones_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SticksAndStones.3"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "TrapTechnician": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_TrapTechnician_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_TrapTechnician.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodyAttacker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodyAttacker_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodyAttacker.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodyEncounter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodyEncounter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodyEncounter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodBanker": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodBanker_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodBanker.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Vialent": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Vialent_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Vialent.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "LampLighter": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LampLighter_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_LampLighter.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SissysSpecialBlend": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SissysSpecialBlend_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SissysSpecialBlend.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ConfusingMechanic": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ConfusingMechanic_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ConfusingMechanic.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "RubberBoots": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_RubberBoots_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_RubberBoots.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "YoullPayForThat": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_YoullPayForThat_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_YoullPayForThat.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SavageryUp": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SavageryUp_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SavageryUp.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PersistanceUp": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PersistanceUp_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_PersistanceUp.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodHarvestingUp": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodHarvestingUp_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodHarvestingUp.0"
+        },
+        "Cost": 1,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "BloodlustGallows": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_BloodlustGallows_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_BloodlustGallows.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "WhatDoor": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_WhatDoor_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_WhatDoor.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ExtraSharpChainsaw": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ExtraSharpChainsaw_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ExtraSharpChainsaw.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Despair": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Despair_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Despair.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "TrapTrained": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_TrapTrained_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_TrapTrained.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HeavyLock": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HeavyLock_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_HeavyLock.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ComingToGetYou": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ComingToGetYou_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_ComingToGetYou.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "GoodUnderstudy": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_GoodUnderstudy_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_GoodUnderstudy.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PlagueCloud": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PlagueCloud_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_PlagueCloud.1"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SporeLoser": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SporeLoser_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_SporeLoser.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "AdrenalineRush": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_AdrenalineRush_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_AdrenalineRush.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "CookListen": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_CookListen_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Cook/Listen/BP_AbilityPerk_CookListen.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "HitchhikerTraps": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_HitchhikerTraps_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Hitchhiker/Traps/BP_AbilityPerk_HitchhikerTraps.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "JohnnyTracking": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_JohnnyTracking_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Johnny/Tracking/BP_AbilityPerk_JohnnyTracking.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "LeatherfaceChainsaw": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_LeatherfaceChainsaw_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Leatherface/Chainsaw/BP_AbilityPerk_LeatherfaceChainsaw.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "SissyPoisonPowder": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_SissyPoisonPowder_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Sissy/PoisonPowder/BP_AbilityPerk_SissyPoisonPowder.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "DannyThrow": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQSSP_StudyAndTamper_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimStarSignPerks/Danny/DannyThrow/BP_BBQSSP_StudyAndTamper.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "Spy": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_AbilityPerk_Spy_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Data/VariableMod/Abilities/FamilyAbilities/Nancy/Spy/BP_AbilityPerk_Spy.0"
+        },
+        "Cost": 0,
+        "XpLevel1": 3600,
+        "XpLevel2": 12000,
+        "XpLevel3": 24000
+      },
+      "Quarterback": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Quarterback_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Quarterback.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "LastVictimStanding": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_LastVictimStanding_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_LastVictimStanding.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PinsAndNeedles": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PinsAndNeedles_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_PinsAndNeedles.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HurtEm": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HurtEm_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_HurtEm.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SipSipSip": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Sipsipsip_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_Sipsipsip.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "KillThemAll": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_KillThemAll_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_KillThemAll.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "PoisonedClaws": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_PoisonedClaws_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_PoisonedClaws.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HareOrMeat": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HareOrMeat_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HareOrMeat.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "GetItOffMe": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_GetItOffMe_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_GetItOffMe.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Headstart": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Headstart_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Headstart.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "StrongMinded": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_StrongMinded_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_StrongMinded.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "NotThatEasy": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_NotThatEasy_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_NotThatEasy.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "GiveMeMore": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_GiveMeMore_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_GiveMeMore.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "WaitAMinute": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_WaitAMinute_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_WaitAMinute.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HeySissy": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HeySissy_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HeySissy.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "FastHands": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_FastHands_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_FastHands.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SpeedSearch": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SpeedSearch_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SpeedSearch.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "QuickExit": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_QuickExit_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_QuickExit.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "NoStopping": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_NoStopping_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_NoStopping.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "HushOrDie": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_HushOrDie_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_HushOrDie.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Lifeline": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Lifeline_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Lifeline.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "NoShock": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_NoShock_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_NoShock.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "WaxOnWaxOff": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_WaxOnWaxOff_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_WaxOnWaxOff.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "SeeingThings": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_SeeingThings_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_SeeingThings.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ICanDoThis": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ICanDoThis_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ICanDoThis.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ICanMakeThis": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ICanMakeIt_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ICanMakeIt.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "Immunity": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_Immunity_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_Immunity.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "IKnowEngines": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_IKnowEngines_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_IKnowEngines.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "ThereTheyAre": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_ThereTheyAre_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_ThereTheyAre.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "OutOfMyHead": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_OutOfMyHead_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_OutOfMyHead.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "DingDong": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_DingDong_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/FamilyPerks/BP_BBQPerk_DingDong.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      },
+      "KnockKnock": {
+        "Perk": {
+          "ObjectName": "BlueprintGeneratedClass'BP_BBQPerk_KnockKnock_C'",
+          "ObjectPath": "BBQGame/Content/BBQGame/Gameplay/Player/Abilities/Perks/VictimPerks/BP_BBQPerk_KnockKnock.0"
+        },
+        "Cost": 2,
+        "XpLevel1": 0,
+        "XpLevel2": 3200,
+        "XpLevel3": 12000
+      }
+    }
+  }
+]

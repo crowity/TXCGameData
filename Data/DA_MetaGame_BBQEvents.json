@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "BBQEventsDataAsset",
+    "Name": "DA_MetaGame_BBQEvents",
+    "Class": "UScriptClass'BBQEventsDataAsset'",
+    "Properties": {
+      "EventDataMap": [
+        {
+          "BaseEventCategory::XP_MULTIPLIER_EVENT": {
+            "GlobalPropertyName": "",
+            "EventDataList": [
+              {
+                "EventName": "doublexp",
+                "PropertyNameOverride": "",
+                "DebugEventValue": 2.0
+              }
+            ]
+          }
+        },
+        {
+          "BaseEventCategory::PERK_XP_MULTIPLIER_EVENT": {
+            "GlobalPropertyName": "",
+            "EventDataList": [
+              {
+                "EventName": "doubleperkxp",
+                "PropertyNameOverride": "",
+                "DebugEventValue": 2.0
+              }
+            ]
+          }
+        },
+        {
+          "BaseEventCategory::GREATER_BLOOD_LOSS_EVENT": {
+            "GlobalPropertyName": "",
+            "EventDataList": [
+              {
+                "EventName": "greaterbloodloss",
+                "PropertyNameOverride": "",
+                "DebugEventValue": 2.0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

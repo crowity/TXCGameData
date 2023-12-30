@@ -1,0 +1,411 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_MetaGameLevelData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BBQMetaGameLevelData'",
+        "ObjectPath": "/Script/BBQBackendServices"
+      }
+    },
+    "Rows": {
+      "1": {
+        "Cost": 1000,
+        "DevelopmentPointsBonus": 10
+      },
+      "2": {
+        "Cost": 1000,
+        "DevelopmentPointsBonus": 5
+      },
+      "3": {
+        "Cost": 1000,
+        "DevelopmentPointsBonus": 5
+      },
+      "4": {
+        "Cost": 1200,
+        "DevelopmentPointsBonus": 5
+      },
+      "5": {
+        "Cost": 1200,
+        "DevelopmentPointsBonus": 5
+      },
+      "6": {
+        "Cost": 1200,
+        "DevelopmentPointsBonus": 5
+      },
+      "7": {
+        "Cost": 1600,
+        "DevelopmentPointsBonus": 5
+      },
+      "8": {
+        "Cost": 1600,
+        "DevelopmentPointsBonus": 5
+      },
+      "9": {
+        "Cost": 1600,
+        "DevelopmentPointsBonus": 5
+      },
+      "10": {
+        "Cost": 3200,
+        "DevelopmentPointsBonus": 10
+      },
+      "11": {
+        "Cost": 3200,
+        "DevelopmentPointsBonus": 5
+      },
+      "12": {
+        "Cost": 3200,
+        "DevelopmentPointsBonus": 5
+      },
+      "13": {
+        "Cost": 8000,
+        "DevelopmentPointsBonus": 5
+      },
+      "14": {
+        "Cost": 8000,
+        "DevelopmentPointsBonus": 5
+      },
+      "15": {
+        "Cost": 8000,
+        "DevelopmentPointsBonus": 5
+      },
+      "16": {
+        "Cost": 12800,
+        "DevelopmentPointsBonus": 5
+      },
+      "17": {
+        "Cost": 12800,
+        "DevelopmentPointsBonus": 5
+      },
+      "18": {
+        "Cost": 12800,
+        "DevelopmentPointsBonus": 5
+      },
+      "19": {
+        "Cost": 12800,
+        "DevelopmentPointsBonus": 5
+      },
+      "20": {
+        "Cost": 12800,
+        "DevelopmentPointsBonus": 10
+      },
+      "21": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "22": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "23": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "24": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "25": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "26": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "27": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "28": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "29": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 6
+      },
+      "30": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 10
+      },
+      "31": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "32": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "33": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "34": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "35": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "36": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "37": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "38": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "39": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 7
+      },
+      "40": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 10
+      },
+      "41": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "42": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "43": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "44": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "45": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "46": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "47": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "48": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "49": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 8
+      },
+      "50": {
+        "Cost": 16000,
+        "DevelopmentPointsBonus": 10
+      },
+      "51": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "52": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "53": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "54": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "55": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "56": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "57": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "58": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "59": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "60": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "61": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "62": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "63": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "64": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "65": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "66": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "67": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "68": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "69": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "70": {
+        "Cost": 19200,
+        "DevelopmentPointsBonus": 10
+      },
+      "71": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "72": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "73": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "74": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "75": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "76": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "77": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "78": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "79": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 10
+      },
+      "80": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "81": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "82": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "83": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "84": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "85": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "86": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "87": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "88": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "89": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 15
+      },
+      "90": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 20
+      },
+      "91": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 20
+      },
+      "92": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 20
+      },
+      "93": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 20
+      },
+      "94": {
+        "Cost": 24000,
+        "DevelopmentPointsBonus": 20
+      },
+      "95": {
+        "Cost": 32000,
+        "DevelopmentPointsBonus": 25
+      },
+      "96": {
+        "Cost": 32000,
+        "DevelopmentPointsBonus": 25
+      },
+      "97": {
+        "Cost": 32000,
+        "DevelopmentPointsBonus": 25
+      },
+      "98": {
+        "Cost": 32000,
+        "DevelopmentPointsBonus": 25
+      },
+      "99": {
+        "Cost": 32000,
+        "DevelopmentPointsBonus": 25
+      }
+    }
+  }
+]

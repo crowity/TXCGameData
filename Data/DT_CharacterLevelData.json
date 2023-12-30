@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "DataTable",
+    "Name": "DT_CharacterLevelData",
+    "Class": "UScriptClass'DataTable'",
+    "Properties": {
+      "RowStruct": {
+        "ObjectName": "ScriptStruct'BBQCharacterLevelData'",
+        "ObjectPath": "/Script/BBQCore"
+      }
+    },
+    "Rows": {
+      "1": {
+        "DevelopmentPoints": 2
+      },
+      "2": {
+        "DevelopmentPoints": 3
+      },
+      "3": {
+        "DevelopmentPoints": 4
+      },
+      "4": {
+        "DevelopmentPoints": 5
+      },
+      "5": {
+        "DevelopmentPoints": 5
+      },
+      "6": {
+        "DevelopmentPoints": 5
+      },
+      "7": {
+        "DevelopmentPoints": 5
+      },
+      "8": {
+        "DevelopmentPoints": 6
+      },
+      "9": {
+        "DevelopmentPoints": 7
+      },
+      "10": {
+        "DevelopmentPoints": 8
+      }
+    }
+  }
+]
